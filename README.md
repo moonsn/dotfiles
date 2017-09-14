@@ -1,3 +1,12 @@
+
+
+1. 删除brew中的默认安装软件
+
+
+
+下面都是废话
+============
+
 # holman does dotfiles
 
 Your dotfiles are how you personalize your system. These are mine.
